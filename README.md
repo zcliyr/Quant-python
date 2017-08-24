@@ -3,6 +3,6 @@
 
 ## Introduction
 
-this project is a collection of short python progtams I wrote during bootcamp.
+this project is a collection of short python programs I wrote during boot camp.
 
 This is my basic Jupyter Notebook
