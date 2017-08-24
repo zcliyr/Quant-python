@@ -1,7 +1,7 @@
 # Quant-python
 
 
-##introduction
+## Introduction
 
 this project is a collection of short python progtams I wrote during bootcamp.
 
